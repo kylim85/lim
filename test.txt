@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:tvg-logo=""All",Astro OhK
+http://tvku.live:8888/Valerian/Valerian/915
+#EXTINF:tvg-logo=""All",Astro »ªÀö
+http://tvku.live:8888/Valerian/Valerian/916
+#EXTINF:tvg-logo=""All",Astro Ï²ÔÃ
+http://tvku.live:8888/Valerian/Valerian/917
+#EXTINF:tvg-logo=""All",Astro È«¼Ñ
+http://tvku.live:8888/Valerian/Valerian/919
+#EXTINF:tvg-logo=""All",Astro »¶Ï²
+http://tvku.live:8888/Valerian/Valerian/920
+#EXTINF:tvg-logo=""All",Astro AEC
+http://tvku.live:8888/Valerian/Valerian/921
