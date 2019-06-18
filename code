@@ -1,5 +1,4 @@
-
-#EXTM3U	
+#EXTM3U
 #EXTINF:tvg-logo=""All",Astro OhK
 http://tvku.live:8888/Valerian/Valerian/915
 #EXTINF:tvg-logo=""All",Astro 华丽
@@ -16,6 +15,10 @@ http://tvku.live:8888/Valerian/Valerian/921
 http://tvku.live:8888/Valerian/Valerian/05
 #EXTINF:tvg-logo=""All",卫视电影台
 http://tvku.live:8888/Valerian/Valerian/780
+#EXTINF:tvg-logo=""All", 星卫电影台
+http://61.216.10.122:4048/VideoInput/play.ts
+#EXTINF:tvg-logo=""All", 三立综合台
+http://61.216.10.122:4075/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",Supersport
 http://tvku.live:8888/Valerian/Valerian/882
 #EXTINF:tvg-logo=""All",Supersport 2
@@ -34,15 +37,25 @@ http://122.146.68.116:4010/VideoInput/play.ts
 http://tvku.live:8888/Valerian/Valerian/978
 #EXTINF:tvg-logo=""All",Fox Action Movies
 http://tvku.live:8888/Valerian/Valerian/979
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="All", Turbo
+#EXTINF:tvg-logo=""All", Fox Sports 3HD
+http://61.216.10.122:4047/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="" group-title="All", Turbo
 http://tvku.live:8888/Valerian/Valerian/462
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="All", DMAX
+#EXTINF:-1 tvg-logo="" group-title="All", DMAX
 http://tvku.live:8888/Valerian/Valerian/483
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="All", National Geographic
-http://tvku.live:8888/Valerian/Valerian/96
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="All", National Geo Wild
+#EXTINF:tvg-logo=""All", National Geographic
+http://61.216.10.122:4020/VideoInput/play.ts
+#EXTINF:tvg-logo=""All", National Geo Wild
 http://tvku.live:8888/Valerian/Valerian/97
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="All", National Geo People
+#EXTINF:tvg-logo=""All", National Geo People
 http://tvku.live:8888/Valerian/Valerian/455
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="All", Discovery Channel
+#EXTINF:tvg-logo=""All", Discovery Channel
 http://tvku.live:8888/Valerian/Valerian/165
+#EXTINF:tvg-logo=""All", Discovery Asia
+http://61.216.10.122:4046/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",  FX
+http://61.216.10.122:4015/VideoInput/play.ts
+#EXTINF:tvg-logo=""All", HD Star
+http://61.216.10.122:4016/VideoInput/play.ts
+#EXTINF:tvg-logo=""All", Disney Channel
+http://61.216.10.122:4019/VideoInput/play.ts
