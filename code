@@ -11,6 +11,8 @@ http://tvku.live:8888/Valerian/Valerian/919
 http://tvku.live:8888/Valerian/Valerian/920
 #EXTINF:tvg-logo=""All",Astro AEC
 http://tvku.live:8888/Valerian/Valerian/921
+#EXTINF:tvg-logo=""All",天映频道
+http://tvku.live:8888/Valerian/Valerian/05
 #EXTINF:tvg-logo=""All",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",Channel U
