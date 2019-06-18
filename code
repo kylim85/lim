@@ -20,11 +20,13 @@ http://61.216.10.122:4048/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", 三立综合台
 http://61.216.10.122:4075/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",Supersport
-http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214886.m3u8
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214884.m3u8
 #EXTINF:tvg-logo=""All",Supersport 2
-http://tvku.live:8888/Valerian/Valerian/892
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214885.m3u8
+#EXTINF:tvg-logo=""All",Supersport 3
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214886.m3u8
 #EXTINF:tvg-logo=""All",Supersport 4
-http://tvku.live:8888/Valerian/Valerian/894
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214887.m3u8
 #EXTINF:tvg-logo=""All",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",Channel U
