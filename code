@@ -1,6 +1,5 @@
+
 #EXTM3U
-#EXTINF:tvg-logo=""All",Astro OhK
-http://tvku.live:8888/Valerian/Valerian/915
 #EXTINF:tvg-logo=""All",Astro 双星
 http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214810.m3u8
 #EXTINF:tvg-logo=""All",Astro 喜悦
@@ -11,10 +10,6 @@ http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/217756.m3u8
 http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/217760.m3u8
 #EXTINF:tvg-logo=""All",Astro AEC
 http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/142600.m3u8
-#EXTINF:tvg-logo=""All",天映频道
-http://tvku.live:8888/Valerian/Valerian/05
-#EXTINF:tvg-logo=""All",卫视电影台
-http://tvku.live:8888/Valerian/Valerian/780
 #EXTINF:tvg-logo=""All", 星卫电影台
 http://61.216.10.122:4048/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", 三立综合台
@@ -35,24 +30,12 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 http://61.216.10.122:4011/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",东森洋片
 http://122.146.68.116:4010/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",Fox Movies
-http://tvku.live:8888/Valerian/Valerian/978
-#EXTINF:tvg-logo=""All",Fox Action Movies
-http://tvku.live:8888/Valerian/Valerian/979
+#EXTINF:tvg-logo=""All",中天娱乐
+http://122.146.68.116:4007/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Fox Sports 3HD
 http://61.216.10.122:4047/VideoInput/play.ts
-#EXTINF:-1 tvg-logo="" group-title="All", Turbo
-http://tvku.live:8888/Valerian/Valerian/462
-#EXTINF:-1 tvg-logo="" group-title="All", DMAX
-http://tvku.live:8888/Valerian/Valerian/483
 #EXTINF:tvg-logo=""All", National Geographic
 http://61.216.10.122:4020/VideoInput/play.ts
-#EXTINF:tvg-logo=""All", National Geo Wild
-http://tvku.live:8888/Valerian/Valerian/97
-#EXTINF:tvg-logo=""All", National Geo People
-http://tvku.live:8888/Valerian/Valerian/455
-#EXTINF:tvg-logo=""All", Discovery Channel
-http://tvku.live:8888/Valerian/Valerian/165
 #EXTINF:tvg-logo=""All", Discovery Asia
 http://61.216.10.122:4046/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",  FX
