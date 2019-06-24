@@ -22,6 +22,10 @@ http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214885.m3u8
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214886.m3u8
 #EXTINF:tvg-logo=""All",Supersport 4
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214887.m3u8
+#EXTINF:tvg-logo=""All",8TV
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVK8N81kFExYuJsvD-XFVv4)/dm/3/x6qud17/s/live-2.m3u8
+#EXTINF:tvg-logo=""All",ntv7
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTLO5_W2kUSEDnu_sYci3bw)/dm/3/x6qp6ou/s/live-2.m3u8
 #EXTINF:tvg-logo=""All",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",Channel U
@@ -34,6 +38,8 @@ http://ms006.happytv.com.tw/live/51puauUecCarOzug/index.m3u8
 http://61.216.10.122:4011/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",东森洋片
 http://122.146.68.116:4010/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",靖洋戏剧台
+http://61.58.60.230:9319/live/203.m3u8
 #EXTINF:tvg-logo=""All",中天娱乐
 http://122.146.68.116:4007/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Fox Sports 3HD
@@ -42,6 +48,8 @@ http://61.216.10.122:4047/VideoInput/play.ts
 http://61.216.10.122:4020/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Discovery Asia
 http://61.216.10.122:4046/VideoInput/play.ts
+#EXTINF:tvg-logo=""All", HBO HD
+http://bestiptv.info:8080/live//g5YG3LH752/eese6rmMO0//206317.m3u8
 #EXTINF:tvg-logo=""All",  FX
 http://61.216.10.122:4015/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Star HD
