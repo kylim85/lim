@@ -1,33 +1,33 @@
 
 #EXTM3U
 #EXTINF:tvg-logo=""All",Astro 双星
-http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214810.m3u8
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214810.m3u8
 #EXTINF:tvg-logo=""All",Astro 喜悦
-http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/142614.m3u8
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//142614.m3u8
 #EXTINF:tvg-logo=""All",Astro 全佳
-http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/217756.m3u8
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//217756.m3u8
 #EXTINF:tvg-logo=""All",Astro 欢喜
-http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/217760.m3u8
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//217760.m3u8
 #EXTINF:tvg-logo=""All",Astro AEC
-http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/142600.m3u8
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//142600.m3u8
 #EXTINF:tvg-logo=""All", 星卫电影台
 http://61.216.10.122:4048/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", 三立综合台
 http://61.216.10.122:4075/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",Supersport
-http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214884.m3u8
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214884.m3u8
 #EXTINF:tvg-logo=""All",Supersport 2
-http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214885.m3u8
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214885.m3u8
 #EXTINF:tvg-logo=""All",Supersport 3
-http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214886.m3u8
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214886.m3u8
 #EXTINF:tvg-logo=""All",Supersport 4
-http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/214887.m3u8
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214887.m3u8
 #EXTINF:tvg-logo=""All",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",Channel U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:tvg-logo=""All",龙华戏剧
-http://bestiptv.info:8080/live//l9qlOfr6M1/aNv01MpZ9z/206285.m3u8
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//06285.m3u8
 #EXTINF:tvg-logo=""All",龙华日韩
 http://ms006.happytv.com.tw/live/51puauUecCarOzug/index.m3u8
 #EXTINF:tvg-logo=""All",东森戏剧
