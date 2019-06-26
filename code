@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:tvg-logo=""All",Astro 华丽台
-http://tvku.live:8888/TONO/tono/916
-#EXTINF:tvg-logo=""All",Astro 喜悦
-http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//142614.m3u8
-#EXTINF:tvg-logo=""All",Astro 全佳
-http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//217756.m3u8
-#EXTINF:tvg-logo=""All",Astro 欢喜
-http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//217760.m3u8
-#EXTINF:tvg-logo=""All",Astro AEC
-http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//142600.m3u8
 #EXTINF:tvg-logo=""All", 星卫电影台
 http://61.216.10.122:4048/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", 三立综合台
