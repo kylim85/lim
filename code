@@ -57,3 +57,5 @@ http://61.216.10.122:4015/VideoInput/play.ts
 http://61.216.10.122:4016/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Disney Channel
 http://61.216.10.122:4019/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",蜡笔小新
+http://dlhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
