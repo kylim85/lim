@@ -17,10 +17,16 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:tvg-logo=""All",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:tvg-logo=""All",亚洲美食台
+http://bestiptv.info:8080/live//l9qlOfr6M1/aNv01MpZ9z/206295.m3u8
 #EXTINF:tvg-logo=""All",翡翠台
 http://ttzx.tv/hls/jade.m3u8
 #EXTINF:tvg-logo=""All",凤凰中文
 http://117.169.120.217:8080/live/fhchinese/.m3u8
+#EXTINF:tvg-logo=""All",凤凰卫视
+http://live.fengshows.com/live/PCC_500k/index.m3u8?ts=1534293541456&amp;amp;amp;amp;token=34bd3848748084b773f39a70db91e541
+#EXTINF:tvg-logo=""All",TVB 星级剧集台
+http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
 #EXTINF:tvg-logo=""All",龙华戏剧
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:9960/z5mCv5Q46z//206285.m3u8
 #EXTINF:tvg-logo=""All",龙华日韩
@@ -57,3 +63,5 @@ http://61.216.10.122:4016/VideoInput/play.ts
 http://61.216.10.122:4019/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",蜡笔小新
 http://dlhls.cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
+#EXTINF:tvg-logo=""All",哆啦A梦
+http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_646353_5852155.m3u8
