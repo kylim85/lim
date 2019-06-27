@@ -7,10 +7,6 @@ http://61.216.10.122:4075/VideoInput/play.ts
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214884.m3u8
 #EXTINF:tvg-logo=""All",Supersport 2
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214885.m3u8
-#EXTINF:tvg-logo=""All",Supersport 3
-http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214886.m3u8
-#EXTINF:tvg-logo=""All",Supersport 4
-http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214887.m3u8
 #EXTINF:tvg-logo=""All",8TV
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcuGiyHexsMdrjtdahHNFzY)/dm/3/x6qud17/s/live-2.m3u8
 #EXTINF:tvg-logo=""All",ntv7
