@@ -1,55 +1,55 @@
 #EXTM3U
 #EXTINF:tvg-logo=""All",test 1
-http://61.216.10.122:4021/VideoInput/play.ts
+http://61.216.10.122:3994/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 2
-http://61.216.10.122:4022/VideoInput/play.ts
+http://61.216.10.122:3995/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 3
-http://61.216.10.122:4023/VideoInput/play.ts
+http://61.216.10.122:3996/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 4
-http://61.216.10.122:4024/VideoInput/play.ts
+http://61.216.10.122:3997/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 5
-http://61.216.10.122:4025/VideoInput/play.ts
+http://61.216.10.122:3998/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 6
-http://61.216.10.122:4026/VideoInput/play.ts
+http://61.216.10.122:3999/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 7
-http://61.216.10.122:4027/VideoInput/play.ts
+http://61.216.10.122:4000/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 8
-http://61.216.10.122:4028/VideoInput/play.ts
+http://61.216.10.122:4001/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 9
-http://61.216.10.122:4029/VideoInput/play.ts
+http://61.216.10.122:4002/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 10
-http://61.216.10.122:4030/VideoInput/play.ts
+http://61.216.10.122:4003/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 11
-http://61.216.10.122:4031/VideoInput/play.ts
+http://61.216.10.122:4004/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 12
-http://61.216.10.122:4032/VideoInput/play.ts
+http://61.216.10.122:4005/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 13
-http://61.216.10.122:4033/VideoInput/play.ts
+http://61.216.10.122:4006/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 14
-http://61.216.10.122:4034/VideoInput/play.ts
+http://61.216.10.122:4007/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 15
-http://61.216.10.122:4035/VideoInput/play.ts
+http://61.216.10.122:4008/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 16
-http://61.216.10.122:4036/VideoInput/play.ts
+http://61.216.10.122:4009/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 17
-http://61.216.10.122:4037/VideoInput/play.ts
+http://61.216.10.122:4010/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 18
-http://61.216.10.122:4038/VideoInput/play.ts
+http://61.216.10.122:4011/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 19
-http://61.216.10.122:4039/VideoInput/play.ts
+http://61.216.10.122:4012/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 20
-http://61.216.10.122:4040/VideoInput/play.ts
+http://61.216.10.122:4013/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 21
-http://61.216.10.122:4041/VideoInput/play.ts
+http://61.216.10.122:4014/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 22
-http://61.216.10.122:4042/VideoInput/play.ts
+http://61.216.10.122:4015/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 23
-http://61.216.10.122:4043/VideoInput/play.ts
+http://61.216.10.122:4016/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 24
-http://61.216.10.122:4044/VideoInput/play.ts
+http://61.216.10.122:4017/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 25
-http://61.216.10.122:4045/VideoInput/play.ts
+http://61.216.10.122:4018/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 26
-http://61.216.10.122:4046/VideoInput/play.ts
+http://61.216.10.122:4019/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",test 27
-http://61.216.10.122:4047/VideoInput/play.ts
+http://61.216.10.122:4020/VideoInput/play.ts
