@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:tvg-logo=""All",Astro 双星
+http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//214810.m3u8
+#EXTINF:tvg-logo=""All",Astro 全佳
+http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//217756.m3u8
+#EXTINF:tvg-logo=""All",Astro 欢喜
+http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//217760.m3u8
+#EXTINF:tvg-logo=""All",Astro 喜悦
+http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142614.m3u8
+#EXTINF:tvg-logo=""All",Astro AEC
+http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142600.m3u8
 #EXTINF:tvg-logo=""All", 星卫电影台
 http://61.216.10.122:4048/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", 三立综合台
@@ -7,10 +17,14 @@ http://61.216.10.122:4075/VideoInput/play.ts
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214884.m3u8
 #EXTINF:tvg-logo=""All",Supersport 2
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214885.m3u8
+#EXTINF:tvg-logo=""All",Supersport 3
+http://bestiptv.info:8080/live//0NioLTIF75/5qrqHIDKmP//214886.m3u8
+#EXTINF:tvg-logo=""All",Supersport 4
+http://bestiptv.info:8080/live//3agyf0W5hD/uAeH38P92N//214887.m3u8
 #EXTINF:tvg-logo=""All",8TV
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcuGiyHexsMdrjtdahHNFzY)/dm/3/x6qud17/s/live-2.m3u8
+http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//214877.m3u8
 #EXTINF:tvg-logo=""All",ntv7
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHWkugLUrxzuhug5UvcOjP8Y)/dm/3/x6qp6ou/s/live-2.m3u8
+http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//214853.m3u8
 #EXTINF:tvg-logo=""All",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",Channel U
