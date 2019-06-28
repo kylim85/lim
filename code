@@ -9,6 +9,8 @@ http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//217760.m3u8
 http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142614.m3u8
 #EXTINF:tvg-logo=""All",Astro AEC
 http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142600.m3u8
+#EXTINF:tvg-logo=""All",Astro 小太阳
+http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142615.m3u8
 #EXTINF:tvg-logo=""All", 星卫电影台
 http://61.216.10.122:4048/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", 三立综合台
