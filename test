@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:tvg-logo=""All",test 1
+http://61.216.10.122:4048/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 2
+http://61.216.10.122:4049/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 3
+http://61.216.10.122:4050/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 4
+http://61.216.10.122:4051/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 5
+http://61.216.10.122:4052/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 6
+http://61.216.10.122:4053/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 7
+http://61.216.10.122:4054/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 8
+http://61.216.10.122:4055/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 9
+http://61.216.10.122:4056/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 10
+http://61.216.10.122:4057/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 11
+http://61.216.10.122:4058/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 12
+http://61.216.10.122:4059/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 13
+http://61.216.10.122:4060/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 14
+http://61.216.10.122:4061/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 15
+http://61.216.10.122:4062/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 16
+http://61.216.10.122:4063/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 17
+http://61.216.10.122:4064/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 18
+http://61.216.10.122:4065/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 19
+http://61.216.10.122:4066/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 20
+http://61.216.10.122:4067/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 21
+http://61.216.10.122:4068/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 22
+http://61.216.10.122:4069/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 23
+http://61.216.10.122:4070/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 24
+http://61.216.10.122:4071/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 25
+http://61.216.10.122:4072/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 26
+http://61.216.10.122:4073/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",test 27
+http://61.216.10.122:4074/VideoInput/play.ts
