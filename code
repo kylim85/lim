@@ -49,6 +49,8 @@ http://ms006.happytv.com.tw/live/51puauUecCarOzug/index.m3u8
 http://61.216.10.122:4011/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",东森洋片
 http://122.146.68.116:4010/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",东森新闻
+http://61.216.10.122:4078/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",靖洋戏剧台
 http://61.58.60.230:9319/live/203.m3u8
 #EXTINF:tvg-logo=""All",公视
@@ -59,6 +61,8 @@ http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:9960/z5mCv5Q46z//206250.m3u8
 http://122.146.68.116:4007/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",卫视中文台
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//206299.m3u8
+#EXTINF:tvg-logo=""All",TVBS 精彩台
+http://61.216.10.122:4074/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",美食星球
 http://bestiptv.info:8080/live//yfzgxvMtLg/2Giim7ONXA//206296.m3u8
 #EXTINF:tvg-logo=""All", National Geographic
