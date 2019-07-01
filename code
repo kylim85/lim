@@ -11,8 +11,6 @@ http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142614.m3u8
 http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142600.m3u8
 #EXTINF:tvg-logo=""All",Astro 小太阳
 http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142615.m3u8
-#EXTINF:tvg-logo=""All", 星卫电影台
-http://61.216.10.122:4048/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", 三立综合台
 http://61.216.10.122:4075/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",Supersport
@@ -39,8 +37,6 @@ http://bestiptv.info:8080/live//l9qlOfr6M1/aNv01MpZ9z/206295.m3u8
 http://ttzx.tv/hls/jade.m3u8
 #EXTINF:tvg-logo=""All",凤凰中文
 http://117.169.120.217:8080/live/fhchinese/.m3u8
-#EXTINF:tvg-logo=""All",TVB 星级剧集台
-http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
 #EXTINF:tvg-logo=""All",龙华戏剧
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:9960/z5mCv5Q46z//206285.m3u8
 #EXTINF:tvg-logo=""All",龙华日韩
@@ -73,8 +69,6 @@ http://61.216.10.122:4046/VideoInput/play.ts
 http://bestiptv.info:8080/live//g5YG3LH752/eese6rmMO0//206317.m3u8
 #EXTINF:tvg-logo=""All",  FX
 http://61.216.10.122:4015/VideoInput/play.ts
-#EXTINF:tvg-logo=""All", Star HD
-http://61.216.10.122:4016/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Disney Channel
 http://61.216.10.122:4019/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",哆啦A梦
