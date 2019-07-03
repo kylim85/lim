@@ -73,6 +73,8 @@ http://122.146.68.116:4007/VideoInput/play.ts
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//206299.m3u8
 #EXTINF:tvg-logo=""All",美食星球
 http://bestiptv.info:8080/live//yfzgxvMtLg/2Giim7ONXA//206296.m3u8
+#EXTINF:tvg-logo=""All",Smart知識頻道
+https://live3-faintv.cdn.hinet.net/live_HLS/T039.stream/playlist.m3u8?token=WynN5P3Eb-chNohXXOEhMg&expires=1562208642
 #EXTINF:tvg-logo=""All", National Geographic
 http://61.216.10.122:4020/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Discovery Asia
