@@ -33,6 +33,8 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",亚洲美食台
 http://bestiptv.info:8080/live//l9qlOfr6M1/aNv01MpZ9z/206295.m3u8
+#EXTINF:tvg-logo=""All",亚洲旅游台
+https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/playlist.m3u8?token=HzJ1HeInhagqax3xHvArHw&expires=1562186048
 #EXTINF:tvg-logo=""All",翡翠台
 http://m.567it.com/jade.m3u8
 #EXTINF:tvg-logo=""All",凤凰中文
