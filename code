@@ -34,7 +34,7 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",亚洲美食台
 http://bestiptv.info:8080/live//l9qlOfr6M1/aNv01MpZ9z/206295.m3u8
 #EXTINF:tvg-logo=""All",翡翠台
-http://ttzx.tv/hls/jade.m3u8
+http://58.176.140.240:9981/stream/channelid/1566574122
 #EXTINF:tvg-logo=""All",凤凰中文
 http://117.169.120.217:8080/live/fhchinese/.m3u8
 #EXTINF:tvg-logo=""All",龙华戏剧
@@ -57,8 +57,6 @@ http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:9960/z5mCv5Q46z//206250.m3u8
 http://122.146.68.116:4007/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",卫视中文台
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//206299.m3u8
-#EXTINF:tvg-logo=""All",TVBS 精彩台
-http://61.216.10.122:4074/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",美食星球
 http://bestiptv.info:8080/live//yfzgxvMtLg/2Giim7ONXA//206296.m3u8
 #EXTINF:tvg-logo=""All", National Geographic
