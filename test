@@ -1,55 +1,64 @@
-#EXTM3U
-#EXTINF:tvg-logo=""All",test 1
-http://61.216.10.122:3000/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 2
-http://61.216.10.122:3001/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 3
-http://61.216.10.122:3002/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 4
-http://61.216.10.122:3003/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 5
-http://61.216.10.122:3004/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 6
-http://61.216.10.122:3005/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 7
-http://61.216.10.122:3006/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 8
-http://61.216.10.122:3007/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 9
-http://61.216.10.122:3008/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 10
-http://61.216.10.122:3009/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 11
-http://61.216.10.122:3010/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 12
-http://61.216.10.122:3011/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 13
-http://61.216.10.122:3012/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 14
-http://61.216.10.122:3013/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 15
-http://61.216.10.122:3014/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 16
-http://61.216.10.122:3015/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 17
-http://61.216.10.122:3016/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 18
-http://61.216.10.122:3017/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 19
-http://61.216.10.122:3018/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 20
-http://61.216.10.122:3019/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 21
-http://61.216.10.122:3020/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 22
-http://61.216.10.122:3021/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 23
-http://61.216.10.122:3022/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 24
-http://61.216.10.122:3023/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 25
-http://61.216.10.122:3024/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 26
-http://61.216.10.122:3025/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",test 27
-http://61.216.10.122:3026/VideoInput/play.ts
+#EXTINF:tvg-logo=""All",翡翠台
+p2p://60.249.213.25:9900/571217f20007ba850243996d2a1a32d0.ts
+#EXTINF:tvg-logo=""All",翡翠台
+http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=367
+#EXTINF:tvg-logo=""All",翡翠台
+p2p://60.249.213.25:9900/571219620009f11c0249377f7cfc15bd.ts
+#EXTINF:tvg-logo=""All",翡翠台
+http://116.199.4.203:8114/a/b/index.m3u8
+#EXTINF:tvg-logo=""All",翡翠台
+rtmp://219.232.160.161/livestream/bycgekwh
+#EXTINF:tvg-logo=""All",翡翠台
+p2p://61.220.227.30:8268/56a02fcb000b82e1b6946cc52a4729a8
+#EXTINF:tvg-logo=""All",翡翠台
+http://202.126.55.12/session/98fea012-5a23-11e6-ab26-005056902609/s8y2vq/mytvlive/smil:mobilehd_jade.smil/chunklist_b224000.m3u8
+#EXTINF:tvg-logo=""All",翡翠台
+p2p://60.249.213.25:9900/57121892000d960f02460bed767d17f5
+#EXTINF:tvg-logo=""All",翡翠台
+p2p://60.249.213.25:9900/56093dab000b879a08167ac469dc1292
+#EXTINF:tvg-logo=""All",翡翠台
+p2p://60.249.213.25:9900/5606be4a0002383101675fd23c44743b
+#EXTINF:tvg-logo=""All",翡翠台
+http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-005056b15a5f/s8y2vq/mytvlive/smil:mobilehd_jade.smil/playlist.m3u8
+#EXTINF:tvg-logo=""All",翡翠台
+http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-005056b15a5f/s8y2vq/mytvlive/smil:mobilehd_inews.smil/playlist.m3u8
+#EXTINF:tvg-logo=""All",翡翠台
+http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-005056b15a5f/s8y2vq/enewslive/smil:mobilehd_enews.smil/playlist.m3u8
+#EXTINF:tvg-logo=""All",翡翠台
+rtmp://219.232.160.161/livestream/b2xajcu7
+#EXTINF:tvg-logo=""All",翡翠台
+http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
+#EXTINF:tvg-logo=""All",翡翠台
+http://app.tll888.com/bilibili.php?cid=1524800
+#EXTINF:tvg-logo=""All",翡翠台
+http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+#EXTINF:tvg-logo=""All",翡翠台
+http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
+#EXTINF:tvg-logo=""All",翡翠台
+http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
+#EXTINF:tvg-logo=""All",翡翠台
+p2p://61.220.227.30:8268/5663e65c000e3e7e2088bdfc6cdd768f
+#EXTINF:tvg-logo=""All",翡翠台
+p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
+#EXTINF:tvg-logo=""All",翡翠台
+p2p://60.249.213.25:9900/57121892000d960f02460bed767d17f5.ts#rtmp://219.232.160.161/livestream/bycgekwh
+#EXTINF:tvg-logo=""All",翡翠台
+http://wshls.acgvideo.com/live/live_44206803_1959058/playlist.m3u8
+#EXTINF:tvg-logo=""All",翡翠台
+http://app.tll888.com/bilibili.php?cid=1366528
+#EXTINF:tvg-logo=""All",翡翠台
+http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+#EXTINF:tvg-logo=""All",翡翠台
+http://live.3xgd.com/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=363&showTime=0
+#EXTINF:tvg-logo=""All",翡翠台
+http://live.3xgd.com/VJTVPlayer.swf?src=http://61.164.209.109:5021/live/362&usep2p=0&showTime=0
+#EXTINF:tvg-logo=""All",翡翠台
+p2p://61.220.227.30:8268/5663e68c0002d6812089769062ef2d01
+#EXTINF:tvg-logo=""All",翡翠台
+http://token.tvb.com/stream/live/hls/mobilehd_jade.smil#p2p://61.221.233.81:9000/56093dab000b879a08167ac469dc1292&link=#p2p://61.221.233.81:9000/56093d3200031b8a08149ff055b7764a&link=HGFDSAihgfd
+#EXTINF:tvg-logo=""All",翡翠台
+http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
+#EXTINF:tvg-logo=""All",翡翠台1HD
+http://wshls.acgvideo.com/live/live_44206803_1959058/playlist.m3u8?wsSecret=51d71659d69878d413a6f489b1e9bb0f&wsTime=57c569f1
+#EXTINF:tvg-logo=""All",J5翡翠高清
+http://httpdvb.slave.homed.me/httpdvb?programid=4200851395&playtoken=&verifycode=&auth=no
