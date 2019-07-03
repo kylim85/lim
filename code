@@ -60,9 +60,9 @@ http://[2001:da8:500d:4::102]/hls/hunanhd.m3u8
 #EXTINF:tvg-logo=""All",浙江卫视
 http://[2001:da8:500d:4::102]/hls/zjhd.m3u8
 #EXTINF:tvg-logo=""All",民视
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-video=3000000-audio_AACL_und_122000_1025=122000.m3u8?token=L1-r_eJNoG-azlGicnVXHw&expires=1562203350&token1=FEEQ0QL5_rdNjVux-vnwIw&expires1=1562203350
+https://live4-faintv.cdn.hinet.net/live_HLS/D062.stream/playlist.m3u8?token=rXCBagT24N9tW_w-IZYHmA&expires=1562208396
 #EXTINF:tvg-logo=""All",民视戏剧
-https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv09/4gtv-live-mid/litv-ftv09-video=2936000-audio_AACL_und_130800_545=130800.m3u8?token=7EKyG4yarxbS6pjS4BkPIQ&expires=1562204191&token1=AeRfIdSTEvVhh7KCTtiXZg&expires1=1562204191
+https://live4-faintv.cdn.hinet.net/live_HLS/D059.stream/playlist.m3u8?token=m4P52Is2dMqyx8vO8U_Kng&expires=1562208440
 #EXTINF:tvg-logo=""All",公视
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:9960/z5mCv5Q46z//206249.m3u8
 #EXTINF:tvg-logo=""All",中视
