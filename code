@@ -34,9 +34,9 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",亚洲美食台
 http://bestiptv.info:8080/live//l9qlOfr6M1/aNv01MpZ9z/206295.m3u8
 #EXTINF:tvg-logo=""All",亚洲旅游台
-https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=Mx3ULRdyKPXxQHiqFvA5sA&expires=1562263511
+https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=hSZNEmMCthrA2EdA5MZ9Yw&expires=1562305696
 #EXTINF:tvg-logo=""All",亚洲旅游台(国际)
-https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=sCy9YJDHYvH9cH1yK0HkaQ&expires=1562263553
+https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=URvy1pcDK0ozMMrDNw7pVw&expires=1562305742
 #EXTINF:tvg-logo=""All",翡翠台
 http://devlivepull.migucloud.com/live/ba00d9a107d735d963f33a612698d31e/playlist.m3u8?wsSession=e0a09baaa10e370eb1e81030-156225434481552&wsIPSercert=ae72ab04df125f921388dcf926ffd41b&wsMonitor=0
 #EXTINF:tvg-logo=""All",天映频道
@@ -44,9 +44,9 @@ http://bestiptv.info:8080/live//bE6RTTK5RJ/WVzECFTOZN//214818.m3u8
 #EXTINF:tvg-logo=""All",凤凰中文
 http://117.169.120.217:8080/live/fhchinese/.m3u8
 #EXTINF:tvg-logo=""All",龙华戏剧
-https://live3-faintv.cdn.hinet.net/live_HLS/D047.stream/chunklist.m3u8?token=G96dHf4Zqcl6SFQofIerrA&expires=1562263422
+https://live3-faintv.cdn.hinet.net/live_HLS/D047.stream/chunklist.m3u8?token=4XCIUttQdXwFH9uuV0e1GA&expires=1562305647
 #EXTINF:tvg-logo=""All",龙华日韩
-https://live3-faintv.cdn.hinet.net/live_HLS/D049.stream/chunklist.m3u8?token=QNCJsKFiUTSRb1bbuELQaw&expires=1562263367
+https://live3-faintv.cdn.hinet.net/live_HLS/D049.stream/chunklist.m3u8?token=NKvWizAKnhqsFqWtgYyd4w&expires=1562305674
 #EXTINF:tvg-logo=""All",东森戏剧
 http://61.216.10.122:4011/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",东森洋片
@@ -56,13 +56,13 @@ http://61.216.10.122:4078/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",靖洋戏剧台
 http://61.58.60.230:9319/live/203.m3u8
 #EXTINF:tvg-logo=""All",ETtoday綜合台
-https://live4-faintv.cdn.hinet.net/live_HLS/D054.stream/chunklist.m3u8?token=CvdRpA5Z_5LEzU3gJSnzdA&expires=1562263442
+https://live4-faintv.cdn.hinet.net/live_HLS/D054.stream/chunklist.m3u8?token=dr1WMo1Y7k7MvmaAe_XeeQ&expires=1562305627
 #EXTINF:tvg-logo=""All",湖南卫视
 http://[2001:da8:500d:4::102]/hls/hunanhd.m3u8
 #EXTINF:tvg-logo=""All",浙江卫视
 http://[2001:da8:500d:4::102]/hls/zjhd.m3u8
 #EXTINF:tvg-logo=""All",民视
-https://live4-faintv.cdn.hinet.net/live_HLS/D062.stream/chunklist.m3u8?token=kJqJViBacAZ9eG1KUzBHrw&expires=1562263473
+https://live4-faintv.cdn.hinet.net/live_HLS/D062.stream/chunklist.m3u8?token=dnK7KUDSL28mIT5nZjeQmA&expires=1562305570
 #EXTINF:tvg-logo=""All",公视
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:9960/z5mCv5Q46z//206249.m3u8
 #EXTINF:tvg-logo=""All",中视
@@ -74,7 +74,7 @@ http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//206299.m3u8
 #EXTINF:tvg-logo=""All",美食星球
 http://bestiptv.info:8080/live//0NioLTIF75/5qrqHIDKmP//206296.m3u8
 #EXTINF:tvg-logo=""All",Smart知識頻道
-https://live3-faintv.cdn.hinet.net/live_HLS/T039.stream/chunklist.m3u8?token=dCjV0-7wJJpXNkXycpGF1g&expires=1562263534
+https://live3-faintv.cdn.hinet.net/live_HLS/T039.stream/chunklist.m3u8?token=04feNGS-jEmjh1NhNd2xmw&expires=1562305719
 #EXTINF:tvg-logo=""All", National Geographic
 http://61.216.10.122:4020/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Discovery Asia
