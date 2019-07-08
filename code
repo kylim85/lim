@@ -56,7 +56,7 @@ http://61.216.10.122:4078/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",靖洋戏剧台
 http://61.58.60.230:9319/live/203.m3u8
 #EXTINF:tvg-logo=""All",ETtoday綜合台
-https://live4-faintv.cdn.hinet.net/live_HLS/D054.stream/chunklist.m3u8?token=Not_7ku4VGNfex_VcbDucw&expires=1562508890
+https://live4-faintv.cdn.hinet.net/live_HLS/D054.stream/chunklist.m3u8?token=UBiWBvWv6DPsqXMFowe1dA&expires=1562595315
 #EXTINF:tvg-logo=""All",湖南卫视
 http://[2001:da8:500d:4::102]/hls/hunanhd.m3u8
 #EXTINF:tvg-logo=""All",浙江卫视
