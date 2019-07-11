@@ -38,19 +38,17 @@ https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=KDM
 #EXTINF:tvg-logo=""All",亚洲旅游台(国际)
 https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=-pEeV9b4zYEWLIqWDKG1RA&expires=1562682939
 #EXTINF:tvg-logo=""All",翡翠台
-http://hls2.liveshow.lss-user.baidubce.com/live/0f729b84646745859c96cb6a4c6f6fce/playlist.m3u8
-#EXTINF:tvg-logo=""All",天映频道
-http://bestiptv.info:8080/live//bE6RTTK5RJ/WVzECFTOZN//214818.m3u8
+http://hls2.liveshow.lss-user.baidubce.com/live/75cd87e575a146b08fcc82725bd989df/playlist.m3u8
 #EXTINF:tvg-logo=""All",凤凰中文
 http://117.169.120.217:8080/live/fhchinese/.m3u8
 #EXTINF:tvg-logo=""All",龙华戏剧
-http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206282.m3u8
-#EXTINF:tvg-logo=""All",龙华日韩
-https://live3-faintv.cdn.hinet.net/live_HLS/D049.stream/chunklist.m3u8?token=4Ap7BW1yQJaBOpt1nYo2Zg&expires=1562682867
+http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206285.m3u8
+#EXTINF:tvg-logo=""All",GTV 八大戏剧
+http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206281.m3u8
 #EXTINF:tvg-logo=""All",东森戏剧
-http://61.216.10.122:4011/VideoInput/play.ts
+http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206260.m3u8
 #EXTINF:tvg-logo=""All",东森洋片
-http://122.146.68.116:4010/VideoInput/play.ts
+http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206265.m3u8
 #EXTINF:tvg-logo=""All",东森新闻
 http://61.216.10.122:4078/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",靖洋戏剧台
@@ -73,8 +71,6 @@ http://122.146.68.116:4007/VideoInput/play.ts
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//206299.m3u8
 #EXTINF:tvg-logo=""All",美食星球
 http://bestiptv.info:8080/live//0NioLTIF75/5qrqHIDKmP//206296.m3u8
-#EXTINF:tvg-logo=""All",Smart知識頻道
-https://live3-faintv.cdn.hinet.net/live_HLS/T039.stream/chunklist.m3u8?token=dxaKlaTpVcll-C0K6YB-kg&expires=1562683038
 #EXTINF:tvg-logo=""All", National Geographic
 http://61.216.10.122:4020/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Discovery Asia
