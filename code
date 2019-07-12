@@ -45,6 +45,8 @@ http://117.169.120.217:8080/live/fhchinese/.m3u8
 http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206285.m3u8
 #EXTINF:tvg-logo=""All",GTV 八大戏剧
 http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206281.m3u8
+#EXTINF:tvg-logo=""All",中天娱乐
+http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206258.m3u8
 #EXTINF:tvg-logo=""All",东森戏剧
 http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206260.m3u8
 #EXTINF:tvg-logo=""All",东森洋片
