@@ -34,11 +34,11 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",亚洲美食台
 http://bestiptv.info:8080/live//l9qlOfr6M1/aNv01MpZ9z/206295.m3u8
 #EXTINF:tvg-logo=""All",亚洲旅游台
-https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=pU4yNi8kSbTAvZdCltprdA&expires=1563094933
+https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=IK_M7TcmZRfqGj_0jdvvkQ&expires=1563170970
 #EXTINF:tvg-logo=""All",亚洲旅游台(国际)
-https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=ps8FvhL661gDn5mbhdVIzA&expires=1563094900
+https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=nueTBXRTnDI4Rd8knoPPHQ&expires=1563171011
 #EXTINF:tvg-logo=""All",翡翠台
-http://hls2.liveshow.lss-user.baidubce.com/live/7b0df224eb2a42c5aee9dbe7fa8ee7c7/playlist.m3u8
+http://hls2.liveshow.lss-user.baidubce.com/live/4f1aeafd1f0b4352ae56eeba9a4513cc/playlist.m3u8
 #EXTINF:tvg-logo=""All",凤凰中文
 http://117.169.120.217:8080/live/fhchinese/.m3u8
 #EXTINF:tvg-logo=""All",龙华戏剧
