@@ -34,9 +34,9 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",亚洲美食台
 http://bestiptv.info:8080/live//l9qlOfr6M1/aNv01MpZ9z/206295.m3u8
 #EXTINF:tvg-logo=""All",亚洲旅游台
-https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=dOdCqgTiVx9g77DY4e9syA&expires=1563284042
+https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=lL23rvc16dFFpEi9lFbA_A&expires=1563288635
 #EXTINF:tvg-logo=""All",亚洲旅游台(国际)
-https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=VlXMrmMRcwfW7cRbznR_5w&expires=1563284101
+https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=2QePn2OHf6iDPFBMqMFDrQ&expires=1563288669
 #EXTINF:tvg-logo=""All",翡翠台
 http://hls2.liveshow.lss-user.baidubce.com/live/2c10014c435d4b2f94cd3c40f60718dd/playlist.m3u8
 #EXTINF:tvg-logo=""All",凤凰中文
