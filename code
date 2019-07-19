@@ -62,7 +62,7 @@ http://[2001:da8:500d:4::102]/hls/hunanhd.m3u8
 #EXTINF:tvg-logo=""All",浙江卫视
 http://[2001:da8:500d:4::102]/hls/zjhd.m3u8
 #EXTINF:tvg-logo=""All",民视
-http://104.233.225.199:888/v/stv.m3u8?token=gr%2BZXzNos2aTikPUD5XcuWFX&id=FTVN
+http://60.251.37.44:8080/live/super7659.m3u8
 #EXTINF:tvg-logo=""All",公视
 http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206249.m3u8
 #EXTINF:tvg-logo=""All",中视
