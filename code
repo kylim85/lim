@@ -83,5 +83,7 @@ http://bestiptv.info:8080/live//g5YG3LH752/eese6rmMO0//206317.m3u8
 http://61.216.10.122:4015/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Disney Channel
 http://61.216.10.122:4019/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",哆啦A梦
+#EXTINF:tvg-logo=""All",海绵宝宝频道
+http://aldirect.hls.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.m3u8
+#EXTINF:tvg-logo=""All",小叮当频道
 http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_646353_5852155.m3u8
