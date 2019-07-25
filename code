@@ -34,13 +34,13 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",亚洲美食台
 http://bestiptv.info:8080/live//l9qlOfr6M1/aNv01MpZ9z/206295.m3u8
 #EXTINF:tvg-logo=""All",亚洲旅游台
-https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=xZd46D4gFSlVd6qF6VQGVw&expires=1563900124
+https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=cwxA_eRxdXJiFdR4BB6bBQ&expires=1564064697
 #EXTINF:tvg-logo=""All",亚洲旅游台(国际)
-https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=MCy2XdQ7eAGrelDfcs7Cng&expires=1563900141
+https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=Lk31s2-5wjWbNbTHVyraCg&expires=1564064736
 #EXTINF:tvg-logo=""All",EYE TV 旅游
 http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206312.m3u8
 #EXTINF:tvg-logo=""All",翡翠台
-http://devlivepull.migucloud.com/live/49e16f27e5a54f19ada87df0c8f81521/playlist.m3u8
+http://devlivepull.migucloud.com/live/14db98246cc74aaaba1b39dbd8014407/playlist.m3u8?wsSession=5c1cb8ad7edf7d27969a8f31-156405396131165&wsIPSercert=24470a994a30ef247cc9b7ec3c1f743c&wsMonitor=0
 #EXTINF:tvg-logo=""All",凤凰中文
 http://117.169.120.217:8080/live/fhchinese/.m3u8
 #EXTINF:tvg-logo=""All",龙华戏剧
