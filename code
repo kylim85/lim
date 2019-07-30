@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:tvg-logo=""All",Astro 双星
-http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//214810.m3u8
+http://194.88.107.101:8080/live/2019/2019/20484.m3u8
 #EXTINF:tvg-logo=""All",Astro 全佳
 http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//217756.m3u8
 #EXTINF:tvg-logo=""All",Astro 欢喜
@@ -11,8 +11,6 @@ http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142614.m3u8
 http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142600.m3u8
 #EXTINF:tvg-logo=""All",Astro 小太阳
 http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142615.m3u8
-#EXTINF:tvg-logo=""All", 三立综合台
-http://61.216.10.122:4075/VideoInput/play.ts
 #EXTINF:tvg-logo=""All",Supersport
 http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214884.m3u8
 #EXTINF:tvg-logo=""All",Supersport 2
@@ -34,13 +32,13 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",亚洲美食台
 http://bestiptv.info:8080/live//l9qlOfr6M1/aNv01MpZ9z/206295.m3u8
 #EXTINF:tvg-logo=""All",亚洲旅游台
-https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=QFJKWJr8hSVaHbXl0IOcFA&expires=1564155812
+https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=nuaBSVra4372wWfv2rzVFQ&expires=1564505081
 #EXTINF:tvg-logo=""All",亚洲旅游台(国际)
-https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=p1JbMW3l2LbSvc-sDgxmIA&expires=1564155842
+https://live3-faintv.cdn.hinet.net/live_HLS/T033.stream/chunklist.m3u8?token=9rYOMYDPqwF3Qbr6Xn7X4Q&expires=1564505100
 #EXTINF:tvg-logo=""All",EYE TV 旅游
 http://bestiptv.info:8080/live//b33WyF0bqu/jdzw2PrxyD//206312.m3u8
 #EXTINF:tvg-logo=""All",翡翠台
-http://devlivepull.migucloud.com/live/086446bac8d940e191d6bcd2bb137b2c/playlist.m3u8?wsSession=5c1cb8ad7edf7d27969a8f31-156414507632331&wsIPSercert=46cea88164411c3757b61f052b23eff9&wsMonitor=0
+http://tv.kuai1789.cn:280/wintv/6a931103a5ca4050b3b1a5fd0c8474ac.m3u8
 #EXTINF:tvg-logo=""All",凤凰中文
 http://117.169.120.217:8080/live/fhchinese/.m3u8
 #EXTINF:tvg-logo=""All",龙华戏剧
