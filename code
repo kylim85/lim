@@ -1,24 +1,8 @@
 #EXTM3U
 #EXTINF:tvg-logo=""All",Astro 双星
-http://194.88.107.101:8080/live/2019/2019/20484.m3u8
+http://185.59.220.103:25461/TdTHhVy2hW/M8EmRUpBdH/32267?token=SBUMB0tdEAoTAAEPBwYAVlZcAlUDA1dVVloGUVIEBlUGBwICDQAFCFUUGxoRQEEBAAk+WAUXXAVQCwIFTRBDFlZFOw9cFwgSAAIACFENAkZNRhVYDFBEDFMMAgZSCg5SBQBIREhcVhILWEJUDhgRARkQBEMPVAppBlxCWwJXFF9dQggKFBddXm5SUlUDWldGW0ZQE00XD0USGw4QNVdaAFhYCUZ1VF5RSEVeWUJ2VhYJBQUTTRcEXxZLVUYEEAwLRlsIShpWXUVfQkVBQA4RKThGTRMETRJTDEpdXQ8QDEdHREZKGlxBb0NTREwQUVIJBBZDC0MFRBpAVFVKPlFZC11SBxJRWlxDEwwVCUAYEQkOCghFDkc5RgtdFggPR1oJTg==
 #EXTINF:tvg-logo=""All",Astro 全佳
-http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//217756.m3u8
-#EXTINF:tvg-logo=""All",Astro 欢喜
-http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//217760.m3u8
-#EXTINF:tvg-logo=""All",Astro 喜悦
-http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142614.m3u8
-#EXTINF:tvg-logo=""All",Astro AEC
-http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142600.m3u8
-#EXTINF:tvg-logo=""All",Astro 小太阳
-http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//142615.m3u8
-#EXTINF:tvg-logo=""All",Supersport
-http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214884.m3u8
-#EXTINF:tvg-logo=""All",Supersport 2
-http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:10215/t4Dy2gK5u3//214885.m3u8
-#EXTINF:tvg-logo=""All",Supersport 3
-http://bestiptv.info:8080/live//0NioLTIF75/5qrqHIDKmP//214886.m3u8
-#EXTINF:tvg-logo=""All",Supersport 4
-http://bestiptv.info:8080/live//3agyf0W5hD/uAeH38P92N//214887.m3u8
+http://185.59.220.103:25461/TdTHhVy2hW/M8EmRUpBdH/32269?token=SBUMB0tdEAoTA1UJVwACVQIBWQRQBAJUWgENClYDU1cAAFdSCAFUU1MUGxoRQEEBAAk+WAUXXAVQCwILTRBDFlZFOw9cFwgSAAIACFENAkZNRhVYDFBEDFMMAgZSCg5TAQFIREhcVhILWEJUDhgRARkQBEMPVAppBlxCWwJXFF9dQggKFBddXm5SUlUDWldGW0ZQE00XD0USGw4QNVdaAFhYCUZ1VF5RSEVeWUJ2VhYJBQUTTRcEXxZLVUYEEAwLRlsIShpWXUVfQkVBQA4RKThGTRMETRJTDEpdXQ8QDEdHREZKGlxBb0NTREwQUVIJBBZDC0MFRBpAVFVKPlFZC11SBxJRWlxDEwwVCUAYEQkOCghFDkc5RgtdFggPR1oJTg==
 #EXTINF:tvg-logo=""All",8TV
 http://bestiptv.info:8080/live//5Jba87Q7vq/DFVFWF2KLg//214877.m3u8
 #EXTINF:tvg-logo=""All",ntv7
@@ -81,7 +65,3 @@ http://bestiptv.info:8080/live//g5YG3LH752/eese6rmMO0//206317.m3u8
 http://61.216.10.122:4015/VideoInput/play.ts
 #EXTINF:tvg-logo=""All", Disney Channel
 http://61.216.10.122:4019/VideoInput/play.ts
-#EXTINF:tvg-logo=""All",海绵宝宝频道
-http://aldirect.hls.huya.com/huyalive/29359996-2689614918-11551808111643721728-2847687648-10057-A-0-1.m3u8
-#EXTINF:tvg-logo=""All",小叮当频道
-http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_646353_5852155.m3u8
