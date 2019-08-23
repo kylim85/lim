@@ -42,7 +42,7 @@ http://61.58.60.230:9319/live/203.m3u8
 #EXTINF:tvg-logo=""All",湖南卫视
 http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225908/1.m3u8
 #EXTINF:tvg-logo=""All",浙江卫视
-http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+http://ivi.bupt.edu.cn/hls/zjtv.m3u8
 #EXTINF:tvg-logo=""All",民视
 http://60.251.37.44:8080/live/super7659.m3u8
 #EXTINF:tvg-logo=""All",公视
