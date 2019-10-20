@@ -6,13 +6,11 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:tvg-logo=""All",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:tvg-logo=""All",TVB 翡翠台
-http://r05.wscdn.hls.xiaoka.tv/live/81783879747b3a93cbbd1908ebb3090aabc/playlist.m3u8
-#EXTINF:tvg-logo=""All",TVB 新闻台
-http://r05.wscdn.hls.xiaoka.tv/live/6ab32a41d1a6b1828dedc661eaabc/playlist.m3u8
+http://jwpull.jd.com/live/e21f665af102432a8bad09ad361dea7e.flv
 #EXTINF:tvg-logo=""All",TVB 明珠台
-http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
-#EXTINF:tvg-logo=""All",亚洲旅行台
-https://live3-faintv.cdn.hinet.net/live_HLS/T041.stream/chunklist.m3u8?token=wF6etze1UhwslGbxiKWmXw&expires=1570867757
+http://jwpull.jd.com/live/29e21af541074e53914067e10046cfff.flv
+#EXTINF:tvg-logo=""All",东森洋片
+http://pull-rtmp-l1.ixigua.com/game/stream-629424a27abe40eab635e249edd3a552.flv
 #EXTINF:tvg-logo=""All",动物星球
 http://cloud-play.hhalloy.com/live/eb7d8081fb5400bb7bfa08c8bcd8c45d.flv
 #EXTINF:tvg-logo=""All",TLC旅游生活
