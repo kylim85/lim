@@ -9,4 +9,5 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:tvg-logo=""All",东森电影
 http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-
+#EXTINF:tvg-logo="https://freeview.github.io/iptv/logos/8tv.png""All",8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
