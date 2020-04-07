@@ -9,6 +9,12 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:tvg-logo=""All",东森电影
 http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:tvg-logo=""All",中天娱乐
+http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:tvg-logo=""All",浙江卫视
+http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8
+#EXTINF:tvg-logo=""All",湖南卫视
+http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:tvg-logo="https://freeview.github.io/iptv/logos/8tv.png""All",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title=""All",NTV7
@@ -19,7 +25,5 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:tvg-logo=""All",National People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-#EXTINF:tvg-logo=""All",浙江卫视
-http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8
-#EXTINF:tvg-logo=""All",湖南卫视
-http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:tvg-logo=""All",Hollywood
+http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
