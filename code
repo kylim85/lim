@@ -17,19 +17,17 @@ http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8
 #EXTINF:tvg-logo=""All",湖南卫视
 http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:tvg-logo="https://freeview.github.io/iptv/logos/8tv.png""All",8TV
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-#EXTINF:tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png" group-title=""All",NTV7
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-#EXTINF:tvg-logo=""All",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:tvg-logo=""All",National Geographic Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:tvg-logo=""All",National People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:tvg-logo=""All",Hollywood
 http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:tvg-logo=""All",FOX动作电影
 http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:tvg-logo=""All",靖洋戏剧
-http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:tvg-logo=""All",Astro Supersport
+http://tvportal.site:8080/live/test-ace69b/6cce/157559.m3u8
+#EXTINF:tvg-logo=""All",Astro Supersport2
+http://tvportal.site:8080/live/test-ace69b/6cce/157556.m3u8
+#EXTINF:tvg-logo=""All",Astro Supersport3
+http://tvportal.site:8080/live/test-ace69b/6cce/157557.m3u8
+#EXTINF:tvg-logo=""All",Astro 双星
+http://tvportal.site:8080/live/test-ace69b/6cce/157506.m3u8
+#EXTINF:tvg-logo=""All",Astro 全佳
+http://tvportal.site:8080/live/test-ace69b/6cce/158348.m3u8
