@@ -5,29 +5,7 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg""All",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:tvg-logo=""All",东森洋片
-http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:tvg-logo=""All",东森电影
-http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:tvg-logo=""All",FOX动作
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:tvg-logo=""All",中天娱乐
-http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:tvg-logo=""All",浙江卫视
 http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8
 #EXTINF:tvg-logo=""All",湖南卫视
 http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:tvg-logo=""All",Hollywood
-http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:tvg-logo=""All",FOX动作电影
-http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:tvg-logo=""All",Astro Supersport
-http://tvportal.site:8080/live/test-ace69b/6cce/157559.m3u8
-#EXTINF:tvg-logo=""All",Astro Supersport2
-http://tvportal.site:8080/live/test-ace69b/6cce/157556.m3u8
-#EXTINF:tvg-logo=""All",Astro Supersport3
-http://tvportal.site:8080/live/test-ace69b/6cce/157557.m3u8
-#EXTINF:tvg-logo=""All",Astro 双星
-http://tvportal.site:8080/live/test-ace69b/6cce/157506.m3u8
-#EXTINF:tvg-logo=""All",Astro 全佳
-http://tvportal.site:8080/live/test-ace69b/6cce/158348.m3u8
