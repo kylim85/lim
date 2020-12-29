@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:tvg-logo=""All",ntv7
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-#EXTINF:tvg-logo=""All",channel 8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:tvg-logo=""All",8tv
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
