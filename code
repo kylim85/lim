@@ -1,17 +1,7 @@
 #EXTM3U
-#EXTINF:tvg-logo="https://images.mypadtv.com/hd8.jpg""All",Channel 8
-http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_1.m3u8
-#EXTINF:tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png""All",Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-#EXTINF:tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg""All",Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:tvg-logo=""All",okto
-http://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-#EXTINF:tvg-logo=""All",Astro 双
-http://185.59.222.189:25461/victoriachen16781/1vtavReV/110182?token=GRdRWUpbQV9BVwBQVVUBVwYCWQUFBQZUBlFRVgJQXQFbAg5bXAcCXVYRFEQQFxAGVQxnD1YVCVACU1UKAk8aRBFQS2dQV0FfQQIBUldRU1sWTRoSW1pWQwlSUQsDVA8JVQUNFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
-#EXTINF:tvg-logo=""All",Astro 华丽
-http://185.59.222.189:25461/jamessnyder65971/Pg6RMGkS/110185?token=GRdRWUpbQV9BCl4EBgVVUVEFC1BQUQFSVgZSVlMCXlUDUAwKWwpQBlYRFEQQFxAGVQxnD1YVCVACU1UKBU8aRBFQS2dQV0FfQQIBUldRUFoWTRoSW1pWQwlSUQsDVAABUgQOFBtDCgFBCRpVU1pUVhZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICUgxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1MFURob
-#EXTINF:tvg-logo=""All",浙江卫视
-http://117.148.187.37/PLTV/88888888/224/3221226136/index.m3u8
+#EXTINF:tvg-logo=""All",ntv7
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+#EXTINF:tvg-logo=""All",channel 8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:tvg-logo=""All",8tv
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
