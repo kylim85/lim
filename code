@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:tvg-logo=""All",ntv7
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:tvg-logo=""All",民視旅遊台
+https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv07/4gtv-live-mid/litv-ftv07-audio_20000=129600-video=2936000.m3u8?token=fQHQ5q-UVK0z7tgT2Bce3w&expires=1609898838&token1=AH3OzduAMskS1Hnude2x1g&expires1=1609898838
 #EXTINF:tvg-logo=""All",8tv
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
